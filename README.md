@@ -11,5 +11,5 @@ In the normal BLoC implementation, after the state change in the if block, the s
 
 We encountered this problem when switching states on the page by pressing the spec button
 
-СС danwirele
-CC pocket-red-fox
+- СС danwirele
+- CC pocket-red-fox
